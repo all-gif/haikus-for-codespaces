@@ -1,0 +1,2 @@
+class alien:
+def__init__(self,game, x, y):
